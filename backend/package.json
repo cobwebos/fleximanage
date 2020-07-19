@@ -24,7 +24,7 @@
     "isemail": "^3.2.0",
     "jsonwebtoken": "^8.3.0",
     "kue": "^0.11.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "math-random": "^1.0.4",
     "mongo-express": "^0.52.2",
     "mongodb": "^3.1.8",
